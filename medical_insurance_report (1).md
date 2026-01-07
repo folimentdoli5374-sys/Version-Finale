@@ -3,11 +3,9 @@
 
 ---
 
-**Auteur :** [VOTRE NOM]  
-**Email :** [votre.email@institution.ac.ma]  
-**Institution :** [Votre Institution]  
-**Lieu :** Safi, Marrakesh-Safi, MA  
-**Date :** 7 janvier 2026
+**Auteur :** [Ezraidy soulaimane]  
+**Email :** [ezraidy.soulaimane.encg@uhp.ac.ma]  
+**Institution :** [encgsetttat]   
 
 ---
 
@@ -1041,33 +1039,3 @@ ROI : 5,480%
 ```
 
 ---
-
-## FIN DU RAPPORT
-
-**Document généré le** : 7 janvier 2026  
-**Version** : 1.0  
-**Reproductibilité** : Garantie avec `random_state=42`  
-**Licence** : Usage académique et éducatif
-
----
-
-**Déclaration de conformité :**  
-Ce rapport respecte les standards académiques en matière de :
-- ✓ Transparence méthodologique
-- ✓ Reproductibilité des résultats
-- ✓ Citation des sources
-- ✓ Validation statistique rigoureuse
-- ✓ Discussion honnête des limitations
-
----
-
-**Contact :**  
-Pour toute question concernant cette analyse :  
-📧 [votre.email@institution.ac.ma]  
-🌐 [Votre profil GitHub/LinkedIn]  
-📍 Safi, Marrakesh-Safi, Maroc
-
----
-
-**Remerciements :**  
-Cette étude a été réalisée dans le cadre d'un projet académique en Data Science et Machine Learning. Nous remercions la communauté Kaggle pour la mise à disposition du dataset et la communauté open-source pour les outils utilisés (Python, Scikit-Learn, Pandas, Matplotlib, Seaborn).
